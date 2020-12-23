@@ -6,7 +6,7 @@ import (
 
 	"github.com/piotrb/go-utils/utils"
 
-	git "gopkg.in/libgit2/git2go.v30"
+	git "github.com/libgit2/git2go/v31"
 )
 
 type BranchInfo struct {
